@@ -1,55 +1,25 @@
 {
     "conditions": [
       {
-        "name": "Thyroid",
-        "imagesrc":"Thyroid img.jpg",
-        "symptoms": [
-          "Fatigue",
-          "Weight gain or loss",
-          "Dry skin",
-          "Muscle weakness",
-          "Irregular menstrual periods"
-        ],
-        "prevention": [
-          "Eat a balanced diet",
-          "Exercise regularly",
-          "Get regular check-ups"
-        ],
-        "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+        "name": "Diabetes",
+        "symptoms": ["Increased thirst", "Frequent urination", "Extreme hunger", "Unexplained weight loss"],
+        "prevention": ["Maintain a healthy diet", "Regular exercise", "Regular blood sugar monitoring"],
+        "treatment": "Insulin therapy, medications, dietary changes",
+        "imagesrc": "images/Diabetes.jpeg"
       },
       {
-        "name": "Diabetes",
-        "imagesrc":"Diabetes.jpeg",
-        "symptoms": [
-          "Frequent urination",
-          "Increased thirst",
-          "Blurry vision",
-          "Fatigue",
-          "Slow healing of cuts or sores"
-        ],
-        "prevention": [
-          "Maintain a healthy weight",
-          "Follow a balanced diet",
-          "Regular exercise"
-        ],
-        "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+        "name": "Thyroid",
+        "symptoms": ["Fatigue", "Weight gain", "Cold intolerance", "Dry skin"],
+        "prevention": ["Iodine intake", "Avoiding radiation exposure", "Regular check-ups"],
+        "treatment": "Hormone replacement therapy",
+        "imagesrc": "images/Thyroid img.jpg"
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"Bp.jpeg",
-        "symptoms": [
-          "Headaches",
-          "Shortness of breath",
-          "Chest pain",
-          "Dizziness",
-          "Blurred or double vision"
-        ],
-        "prevention": [
-          "Reduce salt intake",
-          "Exercise regularly",
-          "Maintain a healthy weight"
-        ],
-        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+        "symptoms": ["Headaches", "Shortness of breath", "Nosebleeds", "Flushing"],
+        "prevention": ["Healthy diet", "Regular exercise", "Limit alcohol intake", "No smoking"],
+        "treatment": "Medications, lifestyle changes",
+        "imagesrc": "images/Bp.jpeg"
       }
     ]
   }
